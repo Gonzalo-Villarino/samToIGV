@@ -1,4 +1,4 @@
 ### samToIGV
-###### 1) Makes sure the 2 bash script are excecutable (chmod u+x). 
-###### 2) Make sure the files (mapped reads) have NO .sam
-###### 3) Excetute only sbatch index.sh
+###### 1) Makes sure the 2 bash script are executable (chmod u+x). 
+###### 2) Make sure the files (mapped reads) have NO .sam extension 
+###### 3) Excetute only index.sh (sbatch index.sh)
